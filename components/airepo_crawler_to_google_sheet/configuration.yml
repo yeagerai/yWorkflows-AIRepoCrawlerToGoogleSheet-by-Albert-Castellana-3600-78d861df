@@ -1,0 +1,9 @@
+description: 'This component is a workflow that will perform searching for GitHub
+  repositories based on given keywords, extracting relevant information from the repositories,
+  and storing the results in a Google Spreadsheet. It takes a list of search keywords
+  as input, and it outputs a list of dictionaries containing the extracted repository
+  information and a link to the Google Spreadsheet containing the data.
+
+  '
+name: AIRepoCrawlerToGoogleSheet
+parameters: {}
