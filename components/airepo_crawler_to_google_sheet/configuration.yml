@@ -5,5 +5,7 @@ description: 'This component is a workflow that will perform searching for GitHu
   information and a link to the Google Spreadsheet containing the data.
 
   '
+input-class: SearchKeywordsIn
 name: AIRepoCrawlerToGoogleSheet
+output-class: SearchResultsOut
 parameters: {}
